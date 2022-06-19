@@ -583,43 +583,43 @@ alamat: http://localhost:8080/rumah
 <br>
 
 - Untuk mencobanya, akses ``http://localhost:8080/artikel``, kemudian tambah menjadi ``http://localhost:8080/admin/artikel`` lalu tekan enter.
-![img66](assets/img/13.14.PNG)
+![img66](assets/img/13.14.png)
 <br>
 
 - Otomatis akan dialihkan untuk login terlebih dahulu.
 
 - Mencoba masuk dengan email `admin@email.com`, dan password `admin123`, kemudian tekan `login`.
-![img67](assets/img/13.15.PNG)
+![img67](assets/img/13.15.png)
 <br>
 
 - Berhasil masuk sebagai admin, dan semua menu dapat diakses.Untuk mencobanya klik menu `Artikel`.
-![img69](assets/img/13.16.PNG)
+![img69](assets/img/13.16.png)
 <br>
 
 - Kemudian klik menu `Login Admin`, untuk diarahkan ke ``http://localhost:8080/admin/artikel``.
-![img70](assets/img/13.17.PNG)
+![img70](assets/img/13.17.png)
 <br>
 
 - Maka akan masuk ke menu admin sebelumnya, tidak login ulang.
-![img71](assets/img/13.18.PNG)
+![img71](assets/img/13.18.png)
 <br>
 
 ## 7. Membuat Fungsi Logout
 - Menambah method logout().
 - Terletak di folder `app/Controllers`, buka file `User.php`, kemudian edit menjadi berikut:
-![img72](assets/img/13.19.PNG)
+![img72](assets/img/13.19.png)
 <br>
 
 - Untuk mencobanya, klik menu `Logout`.
-![img73](assets/img/13.20.PNG)
+![img73](assets/img/13.20.png)
 <br>
 
 - Maka akan langsung diarahkan untuk login ulang, sebelum bisa mengakses menu admin.
-![img74](assets/img/13.21.PNG)
+![img74](assets/img/13.21.png)
 <br>
 
 - Namun, untuk ``http://localhost:8080/artikel`` masih dapat diakses.
-![img75](assets/img/13.22.PNG)
+![img75](assets/img/13.22.png)
 <br>
 
 </div>
