@@ -1,7 +1,8 @@
 # LAB11
 
-| Nama      | Aditya Bani Isro |
+|      ||
 | ----------- | ----------- |
+| Nama     | Aditya Bani Isro       |
 | NIM     | 312010134       |
 | Kelas   | TI.20.A.1        |
 | Praktikum     | <a href="#p11">11</a>,<a href="#p12">12</a>,<a href="#p13">13</a></td>  |
