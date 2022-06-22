@@ -6,6 +6,8 @@
 | Kelas   | TI.20.A.1        |
 | Praktikum     | <a href="#p11">11</a>,<a href="#p12">12</a>,<a href="#p13">13</a></td>  |
 
+<div id="p11">
+
 # <spaan style="color: blue">Praktikum 11 | PHP Framework (Codeigniter)</span>
 
 ## Langkah langkah praktikum
@@ -317,6 +319,8 @@ alamat: http://localhost:8080/rumah
 
 ![img8](assets/img/finish.PNG)
 
+<div id="p12">
+
 # <span style="color: blue">Praktikum 12 | Framework Lanjutan (CRUD)</span>
 
 ## 1. Database
@@ -514,6 +518,8 @@ alamat: http://localhost:8080/rumah
 
 - Artikel berhasil dihapus.
 ![img51](assets/img/12.29.PNG)
+
+<div id="p13">
 
 # <span style="color: blue">Praktikum 13 | Framework Lanjutan (Modul Login)</span>
 
