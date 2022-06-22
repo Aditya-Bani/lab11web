@@ -1,11 +1,12 @@
 # LAB11
 
-| Nama      | Aditya Bani Isro|
+|  | |
 | ----------- | ----------- |
-| NIM     | 312010134       |
-| Kelas   | TI.20.A.1        |
-| Matakuliah   | Pemrograman Web        |
-| Praktikum     | <a href="#p11">11</a>, <a href="#p12">12</a> & <a href="#p13">13</a></td>  |
+| <b> Nama     | Aditya Bani Isro       |
+| <b> NIM     | 312010134       |
+| <b> Kelas   | TI.20.A.1        |
+| <b> Matakuliah   | Pemrograman Web        |
+| <b> Praktikum     | <a href="#p11">11</a>, <a href="#p12">12</a> & <a href="#p13">13</a></td>  |
 
 <div id="p11">
 
