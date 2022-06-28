@@ -9,6 +9,82 @@
 | <b> Praktikum     | <a href="#p11">11</a>, <a href="#p12">12</a>, <a href="#p13">13</a>, <a href="#p14">14</a></td>  |
 |  | |
 
+ # DAFTAR TUGAS
+
+<table border="2" cellpading="10">
+  <tr>
+    <td><b>Praktikum 1</b></td>
+    <td>HTML Dasar</td>
+    <td><a href="https://github.com/Aditya-Bani/lab1web">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Praktikum 2</b></td>
+    <td>CSS Dasar</td>
+    <td><a href="https://github.com/Aditya-Bani/lab2web">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Praktikum 3</b></td>
+    <td>Membuat List, Table dan Form</td>
+    <td><a href="https://github.com/Aditya-Bani/lab3web">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Praktikum 4</b></td>
+    <td>CSS Layout</td>
+    <td><a href="https://github.com/Aditya-Bani/lab4web">Klik disini</td>
+  </tr>
+  <tr>
+  <td><b>Praktikum 5</b></td>
+    <td>Javascript</td>
+    <td><a href="https://github.com/Aditya-Bani/lab5web">Klik disini</td>
+</tr>
+<tr>
+  <td><b>Praktikum 6</b></td>
+    <td>Web Framework</td>
+    <td><a href="https://github.com/Aditya-Bani/lab6web">Klik disini</td>
+</tr>
+<tr>
+  <td><b>Praktikum 7</b></td>
+    <td>PHP Dasar</td>
+    <td><a href="https://github.com/Aditya-Bani/lab7web">Klik disini</td>
+</tr>
+<tr>
+  <td><b>Praktikum 8</b></td>
+    <td>PHP dan Database MySQL</td>
+    <td><a href=https://github.com/Aditya-Bani/lab8web">Klik disini</td>
+</tr>
+<tr>
+  <td><b>Praktikum 9 & 10</b></td>
+    <td>PHP Modular</td>
+    <td><a href="https://github.com/Aditya-Bani/lab9web">Klik disini</td>
+</tr>
+<tr>
+  <td></td>
+    <td>PHP OOP</td>
+    <td><a href="https://github.com/Aditya-Bani/lab10web">Klik disini</td>
+</tr>
+<tr>
+    <td><b>Praktikum 11</b></td>
+    <td>PHP Framework (Codeigniter)</td>
+    <td><a href="https://github.com/Aditya-Bani/lab11web">Klik disini</td>
+  </tr>
+<tr>
+    <td><b>Praktikum 12</b></td>
+    <td>Framework Lanjutan (CRUD)</td>
+    <td><a href="https://github.com/Aditya-Bani/lab11web">Klik disini</td>
+  </tr>
+<tr>
+    <td><b>Praktikum 13</b></td>
+    <td>Framework Lanjutan (Modul Login)</td>
+    <td><a href="https://github.com/Aditya-Bani/lab11web">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Praktikum 14</b></td>
+    <td>Pagination dan Pencarian</td>
+    <td><a href="https://github.com/Aditya-Bani/lab11web">Klik disini</td>
+  </tr>
+  <tr>
+</table>_________________________________________________________________________________
+_________________________________________________________________________________
 <div id="p11">
 
 # <spaan style="color: blue">Praktikum 11 | PHP Framework (Codeigniter)</span>
@@ -318,7 +394,7 @@ Pada masing-masing file di dalam Views, buat file baru denga nama : ``rumah.php`
     <?= $this->include('template/footer'); ?>
 ```
 Untuk melihat hasilnya dengan menggunakan
-alamat: http://localhost:8080/rumah
+alamat: http://localhost:8080/contact
 
 ![img8](assets/img/finish.PNG)
 
